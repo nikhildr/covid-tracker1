@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../udemy-course-spring-boot/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/../../udemy-course-spring-boot/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/../../udemy-course-spring-boot/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/../../udemy-course-spring-boot/configserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
