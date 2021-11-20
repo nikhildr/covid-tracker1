@@ -1,6 +1,8 @@
 /target/
-!.mvn/wrapper/maven-wrapper.jar
-
+.mvn/wrapper/maven-wrapper.jar
+.gitattributes
+mvnw
+mvnw.cmd
 ### STS ###
 .apt_generated
 .classpath
